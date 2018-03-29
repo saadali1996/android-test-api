@@ -4,6 +4,9 @@ android {
     //update the following to match your sdk and build tools versions
     compileSdkVersion 19
     buildToolsVersion "19.1.0"
+    lintOptions {
+        abortOnError false
+    }
 
     defaultConfig {
         minSdkVersion 10
