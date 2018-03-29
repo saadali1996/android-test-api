@@ -1,0 +1,4 @@
+#Fri Mar 30 00:04:42 PKT 2018
+base.0=C\:\\Users\\Nauman Ali\\Desktop\\ST2\\android-sdk\\TesterLib\\build\\intermediates\\transforms\\dex\\androidTest\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\Nauman Ali\\Desktop\\ST2\\android-sdk\\TesterLib\\build\\intermediates\\transforms\\dex\\androidTest\\debug\\folders\\1000\\1f\\main\\classes.dex
